@@ -146,6 +146,9 @@ p {
     max-width: 475px;
     margin-right: 40px;
 }
+.three .wrapper:last-child {
+    margin-bottom: 0;
+}
 .wrapper {
     width: 100%;
     text-align: center;
