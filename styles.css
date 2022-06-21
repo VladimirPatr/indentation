@@ -99,11 +99,8 @@ p {
 .header p:last-child {
     margin-bottom: 0;
 }
-.header p:last-child {
-    padding-bottom: 25px;
-}
 .content {
-    padding-top: 28px;
+    padding-top: 25px;
 }
 .conteiner-content {
     background-color: #F1F1F1;
