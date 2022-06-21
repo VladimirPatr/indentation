@@ -88,12 +88,22 @@ p {
     margin: 0 auto;
 }
 
-.header, .content, .one, .two, .three  {
+.content, .one, .two, .three  {
     margin-bottom: 50px;
 }
 
 .main {
     padding: 60px 0 50px;
+}
+
+.header p:last-child {
+    margin-bottom: 0;
+}
+.header p:last-child {
+    padding-bottom: 25px;
+}
+.content {
+    padding-top: 28px;
 }
 .conteiner-content {
     background-color: #F1F1F1;
