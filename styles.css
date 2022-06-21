@@ -95,9 +95,11 @@ p {
 .main {
     padding: 60px 0 50px;
 }
-
 .header p:last-child {
     margin-bottom: 0;
+}
+.header {
+    padding-bottom: 25px;
 }
 
 .conteiner-content {
